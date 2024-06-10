@@ -15,8 +15,7 @@ const client = new Client({
 
 client.once('ready', () => {
   console.log(`bot is ready! ${client.user.tag}!`);
-  console.log(`Code by Wick Studio`);
-  console.log(`discord.gg/wicks`);
+  console.log(`Code by PSR1_ `);
 });
 
 async function extractTextFromImage(url) {
