@@ -1,6 +1,6 @@
-# Wick Studio's AI BOT
+# PSR1_ AI BOT
 
-Wick Studio's AI Discord bot is a powerful and versatile bot designed to enhance your Discord experience. It features image text extraction, intelligent conversation, and more, all powered by the latest in AI technology.
+PSR1_ AI Discord bot is a powerful and versatile bot designed to enhance your Discord experience. It features image text extraction, intelligent conversation, and more, all powered by the latest in AI technology.
 
 ## Features
 
@@ -46,17 +46,11 @@ After installation and configuration, you can start the bot by running `start.ba
 
 ## Support
 
-For support, questions, or to report issues, please visit [Wick Studio Discord](https://discord.gg/wicks).
+For support, questions, or to report issues, please visit [PSR1_ DISOCRD][https://discord.gg/FeZVjEzHHD].
 
 ## Contributing
 
 Contributions are welcome! If you have a feature request, bug report, or pull request, please feel free to get in touch.
 
-## License
-
-[MIT](LICENSE)
-
 ## Acknowledgments
-
-- Thanks to the Hercai and Tesseract.js teams for libraries.
-- This bot is brought to you by Wick Studio - visit us at `discord.gg/wicks`.
+- This bot is brought to you by PSR1_ - visit us at `[https://discord.gg/FeZVjEzHHD]`.
